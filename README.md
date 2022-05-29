@@ -1,0 +1,1 @@
+This repo is for showing competency for Week1 CP02 NPM
